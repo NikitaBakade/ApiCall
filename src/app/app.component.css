@@ -1,0 +1,15 @@
+p{
+    font-size: 15px;
+    font-weight: bold;
+}
+.body{
+    background-color: lightyellow ;
+    padding-bottom: 20px;
+}
+.page-item{
+    cursor: pointer;
+}
+.page-item:hover{
+    color: red;
+    font-weight: bold;
+}
